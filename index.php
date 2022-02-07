@@ -34,7 +34,7 @@
         </table>
                    
         <h1 align="center">
-            <font face="Verdana" color="#3D3635" size="6">
+            <font face="Verdana" color="#e8e4c9" size="6">
 
                 HOMEPAGE 
 

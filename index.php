@@ -24,7 +24,7 @@
         <h1 align="center">
             <font face="Verdana" color="#e8e4c9" size="6"> HOMEPAGE </font> </h1>
         
-    <br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br>
 &nbsp;&nbsp;&nbsp; <A STYLE="background-color: rgb(240, 245, 247)" HREF="math.html">
         <font face="Verdana" size="4"> <b> MATH </b> </font>  </A> 
                    
